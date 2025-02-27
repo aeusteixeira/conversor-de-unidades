@@ -11,13 +11,13 @@
     <meta name="robots" content="index, follow">
     <meta property="og:title" content="Conversor de Unidades 🔢">
     <meta property="og:description" content="Converta moedas, temperaturas, pesos e medidas de forma simples e rápida.">
-    <meta property="og:image" content="http://conversor-txt.matheusteixeira.com.br/img/preview-conversor-de-unidades.png">
-    <meta property="og:url" content="http://conversor-txt.matheusteixeira.com.br/">
-    <meta name="twitter:card" content="http://conversor-txt.matheusteixeira.com.br/img/preview-conversor-de-unidades.png">
+    <meta property="og:image" content="http://conversor-unidades.matheusteixeira.com.br/img/preview.png">
+    <meta property="og:url" content="http://conversor-unidades.matheusteixeira.com.br/">
+    <meta name="twitter:card" content="http://conversor-unidades.matheusteixeira.com.br/img/preview.png">
     <meta name="twitter:title" content="Conversor de Unidades 🔢">
     <meta name="twitter:description"
         content="Converta moedas, temperaturas, pesos e medidas de forma simples e rápida.">
-    <meta name="twitter:image" content="http://conversor-txt.matheusteixeira.com.br/img/preview-conversor-de-unidades.png">
+    <meta name="twitter:image" content="http://conversor-unidades.matheusteixeira.com.br/img/preview.png">
     <title>Conversor de Unidades 🔢</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/app.css">
